@@ -1,0 +1,36 @@
+Line Item,Section,Number of Equipment,Per Unit Price,Ave. Percentage/Rate
+Nozzle per Chamber,M&F,500,,
+Desalination Chamber,M&F,20,,
+Cyclone,M&F,20,40000,0
+Air-water Separator ,M&F,20,7100,0
+Condenser ,M&F,20,4000,0
+Heat Recuperator ,M&F,20,27000,0
+Single Cavity Mold,M&F,1,31250,0
+Storage Water Tank,Other Equipment,1,301994,0
+By-product Storage,Other Equipment,1,100000,0
+Feed Pump,Other Equipment,1,11000,0
+Conveyor Belt,Other Equipment,1,10,0
+Valves,Other Equipment,5,535.01,0
+Fencing ,SP&C,0,0,80
+Site Preparation,SP&C,0,0,2
+Plumbing,SP&C,0,0,4.5
+Wiring,SP&C,0,0,8.85
+Overall Construction,SP&C,0,0,0.05
+Engineering,SP&C,0,0,0.05
+Permitting,Miscellaneous,0,0,0.035
+Taxes,Miscellaneous,0,0,0.13
+Instrumentation & Control,Miscellaneous,0,0,0.02
+Administration Fees,Miscellaneous,0,0,0.02
+Government Fees,Miscellaneous,0,0,0.03
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,`,

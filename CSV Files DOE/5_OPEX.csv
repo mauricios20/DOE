@@ -1,0 +1,13 @@
+Line Item,Section,Ave. Percentage/Rate
+Instruments,Maintenance,0.06
+Pump upkeep,Maintenance,0.06
+Facility upkeep,Maintenance,0.06
+Minor Equipment Replacement,Maintenance,0.06
+Environmental Monitoring,Legal & Permitting,0.02
+Permit compliance,Legal & Permitting,0.02
+Labor,Operations,
+By-product management ,Operations,0.02
+Heat Rate ($/kWh),Operations,0.015
+Electricity Rate ($/kWh) 2,Operations,
+Insurance ,Other Related Expenses,0.02
+Surveillance,Other Related Expenses,0.02
