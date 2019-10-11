@@ -1,9 +1,0 @@
-Material,Raw material price ($/cm3),3D Printing price ($/cm3),3D Printing price ($/cm3)(Volume 10-999 cm3),3D Printing price ($/cm3)(Volume  >1000 cm3),Injection Molding per Unit Cost(100 Units),"Injection Molding per Unit Cost (18,000 Units)"
-PPSF,1.19,21.32,3.704991367,7.461965661,0,0
-PEEK,1.06,22.85,3.970874894,7.997463197,0,0
-PSU,0.28,4.5,0.782010373,1.574992752,0,0
-PVDF,0.55,7.35,1.277283609,2.572488162,0,0
-ULTEM 9085,0.5,11.06,1.922007717,3.870982186,0,0
-PA12 Black,0.6,7.47,1.298137219,2.614487968,0,0
-PTFE,0.75,16.6,2.884749376,5.809973263,0,0
-LCP,0,0,0,0,$17.35 ,$1.45 
