@@ -1,53 +1,53 @@
-State ,"Corporate 
-Income Tax",Sales,Property
-Alabama,0.07,0.04,0
-Alaska,0.09,0,0.01
-Arizona,0.05,0.06,0.01
-Arkansas,0.07,0.07,0.01
-California,0.09,0.07,0.01
-Colorado,0.05,0.03,0.01
-Connecticut,0.08,0.06,0.02
-Delaware,0.09,0,0.01
-District of Columbia,0.08,0.06,0.01
-Florida,0.06,0.06,0.01
-Georgia,0.06,0.04,0.01
-Hawaii,0.06,0.04,0
-Idaho,0.07,0.06,0.01
-Illinois,0.1,0.06,0.02
-Indiana,0.06,0.07,0.01
-Iowa,0.12,0.06,0.02
-Kansas,0.07,0.07,0.01
-Kentucky,0.05,0.06,0.01
-Louisiana,0.08,0.04,0.01
-Maine,0.09,0.05,0.01
-Maryland,0.08,0.06,0.01
-Massachusetts,0.08,0.06,0.01
-Michigan,0.06,0.06,0.02
-Minnesota,0.1,0.07,0.01
-Mississippi,0.05,0.07,0.01
-Missouri,0.05,0.04,0.01
-Montana,0.06,0,0.01
-Nebraska,0.08,0.06,0.02
-Nevada,0,0.07,0.01
-New Hampshire,0.08,0,0.02
-New Jersey,0.07,0.07,0.02
-New Mexico,0.06,0.05,0.01
-New York,0.07,0.04,0.02
-North Carolina,0.03,0.05,0.01
-North Dakota,0.04,0.05,0.01
-Ohio,0,0.06,0.02
-Oklahoma,0.06,0.05,0.01
-Oregon,0.08,0,0.01
-Pennsylvania,0.1,0.06,0.02
-Rhode Island,0.07,0.07,0.02
-South Carolina,0.05,0.06,0.01
-South Dakota,0,0.05,0.01
-Tennesee,0.07,0.07,0.01
-Texas,0,0.06,0.02
-Utah,0.05,0.05,0.01
-Vermont,0.06,0.06,0.02
-Virginia,0.06,0.04,0.01
-Washington,0,0.07,0.01
-West Virginia,0.07,0.06,0.01
-Wisconsin,0.08,0.05,0.02
-Wyoming,0,0.04,0.01
+State ,Federal Corporate Income Tax,"State Corporate 
+Income Tax",Sales Tax,Property Tax
+Alabama,0.21,0.07,0.04,0
+Alaska,0.21,0.09,0,0.01
+Arizona,0.21,0.05,0.06,0.01
+Arkansas,0.21,0.07,0.07,0.01
+California,0.21,0.09,0.07,0.01
+Colorado,0.21,0.05,0.03,0.01
+Connecticut,0.21,0.08,0.06,0.02
+Delaware,0.21,0.09,0,0.01
+District of Columbia,0.21,0.08,0.06,0.01
+Florida,0.21,0.06,0.06,0.01
+Georgia,0.21,0.06,0.04,0.01
+Hawaii,0.21,0.06,0.04,0
+Idaho,0.21,0.07,0.06,0.01
+Illinois,0.21,0.1,0.06,0.02
+Indiana,0.21,0.06,0.07,0.01
+Iowa,0.21,0.12,0.06,0.02
+Kansas,0.21,0.07,0.07,0.01
+Kentucky,0.21,0.05,0.06,0.01
+Louisiana,0.21,0.08,0.04,0.01
+Maine,0.21,0.09,0.05,0.01
+Maryland,0.21,0.08,0.06,0.01
+Massachusetts,0.21,0.08,0.06,0.01
+Michigan,0.21,0.06,0.06,0.02
+Minnesota,0.21,0.1,0.07,0.01
+Mississippi,0.21,0.05,0.07,0.01
+Missouri,0.21,0.05,0.04,0.01
+Montana,0.21,0.06,0,0.01
+Nebraska,0.21,0.08,0.06,0.02
+Nevada,0.21,0,0.07,0.01
+New Hampshire,0.21,0.08,0,0.02
+New Jersey,0.21,0.07,0.07,0.02
+New Mexico,0.21,0.06,0.05,0.01
+New York,0.21,0.07,0.04,0.02
+North Carolina,0.21,0.03,0.05,0.01
+North Dakota,0.21,0.04,0.05,0.01
+Ohio,0.21,0,0.06,0.02
+Oklahoma,0.21,0.06,0.05,0.01
+Oregon,0.21,0.08,0,0.01
+Pennsylvania,0.21,0.1,0.06,0.02
+Rhode Island,0.21,0.07,0.07,0.02
+South Carolina,0.21,0.05,0.06,0.01
+South Dakota,0.21,0,0.05,0.01
+Tennessee,0.21,0.07,0.07,0.01
+Texas,0.21,0,0.06,0.02
+Utah,0.21,0.05,0.05,0.01
+Vermont,0.21,0.06,0.06,0.02
+Virginia,0.21,0.06,0.04,0.01
+Washington,0.21,0,0.07,0.01
+West Virginia,0.21,0.07,0.06,0.01
+Wisconsin,0.21,0.08,0.05,0.02
+Wyoming,0.21,0,0.04,0.01
